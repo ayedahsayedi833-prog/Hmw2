@@ -1,0 +1,45 @@
+ 
+ .gallery-title{
+    text-align: center;
+   }  
+
+.gallery {
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    
+      
+}
+
+.gallery figure{
+
+    width: 200px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5pc rgba(0, 0, 0, 0.2);
+    border: 2px solid #ccc;
+    overflow: hidden;
+}
+
+    
+
+.search {
+    text-align: right;
+
+
+} 
+ 
+.header{
+    text-align: center;
+    height: 30px;
+    
+}
+
+.table{
+    text-align: center;
+    
+}
+
+   
+
+
